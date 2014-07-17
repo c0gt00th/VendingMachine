@@ -1,0 +1,31 @@
+c:\users\kylloy9706\documents\visual studio 2012\Projects\VendingMachineCIS214\VendingMachineCIS214\bin\Debug\VendingMachineCIS214.exe.config
+C:\Users\kylloy9706\documents\visual studio 2012\Projects\VendingMachineCIS214\VendingMachineCIS214\bin\Debug\VendingMachineCIS214.exe
+C:\Users\kylloy9706\documents\visual studio 2012\Projects\VendingMachineCIS214\VendingMachineCIS214\bin\Debug\VendingMachineCIS214.pdb
+C:\Users\kylloy9706\documents\visual studio 2012\Projects\VendingMachineCIS214\VendingMachineCIS214\obj\Debug\VendingMachineCIS214.csprojResolveAssemblyReference.cache
+C:\Users\kylloy9706\documents\visual studio 2012\Projects\VendingMachineCIS214\VendingMachineCIS214\obj\Debug\VendingMachineCIS214.CashForm.resources
+C:\Users\kylloy9706\documents\visual studio 2012\Projects\VendingMachineCIS214\VendingMachineCIS214\obj\Debug\VendingMachineCIS214.Properties.Resources.resources
+C:\Users\kylloy9706\documents\visual studio 2012\Projects\VendingMachineCIS214\VendingMachineCIS214\obj\Debug\VendingMachineCIS214.csproj.GenerateResource.Cache
+C:\Users\kylloy9706\documents\visual studio 2012\Projects\VendingMachineCIS214\VendingMachineCIS214\obj\Debug\VendingMachineCIS214.exe
+C:\Users\kylloy9706\documents\visual studio 2012\Projects\VendingMachineCIS214\VendingMachineCIS214\obj\Debug\VendingMachineCIS214.pdb
+C:\Users\kylloy9706\documents\visual studio 2012\Projects\VendingMachineCIS214\VendingMachineCIS214\obj\Debug\VendingMachineCIS214.CreditForm.resources
+C:\Users\kylloy9706\documents\visual studio 2012\Projects\VendingMachineCIS214\VendingMachineCIS214\obj\Debug\VendingMachineCIS214.mainWindow.resources
+C:\Users\Kyle\Desktop\VendingMachineCIS214\VendingMachineCIS214\bin\Debug\VendingMachineCIS214.exe.config
+C:\Users\Kyle\Desktop\VendingMachineCIS214\VendingMachineCIS214\obj\Debug\VendingMachineCIS214.exe
+C:\Users\Kyle\Desktop\VendingMachineCIS214\VendingMachineCIS214\obj\Debug\VendingMachineCIS214.pdb
+C:\Users\Kyle\Desktop\VendingMachineCIS214\VendingMachineCIS214\bin\Debug\VendingMachineCIS214.exe
+C:\Users\Kyle\Desktop\VendingMachineCIS214\VendingMachineCIS214\bin\Debug\VendingMachineCIS214.pdb
+C:\Users\Kyle\Desktop\VendingMachineCIS214\VendingMachineCIS214\obj\Debug\VendingMachineCIS214.csprojResolveAssemblyReference.cache
+C:\Users\Kyle\Desktop\VendingMachineCIS214\VendingMachineCIS214\obj\Debug\VendingMachineCIS214.CashForm.resources
+C:\Users\Kyle\Desktop\VendingMachineCIS214\VendingMachineCIS214\obj\Debug\VendingMachineCIS214.CreditForm.resources
+C:\Users\Kyle\Desktop\VendingMachineCIS214\VendingMachineCIS214\obj\Debug\VendingMachineCIS214.mainWindow.resources
+C:\Users\Kyle\Desktop\VendingMachineCIS214\VendingMachineCIS214\obj\Debug\VendingMachineCIS214.Properties.Resources.resources
+C:\Users\Kyle\Desktop\VendingMachineCIS214\VendingMachineCIS214\obj\Debug\VendingMachineCIS214.csproj.GenerateResource.Cache
+C:\Users\Kyle\Desktop\VendingMachineCIS214\VendingMachineCIS214\obj\Debug\VendingMachineCIS214.AdminForm.resources
+C:\Users\Kyle\Desktop\VendingMachineCIS214\VendingMachineCIS214\obj\Debug\VendingMachineCIS214.StockForm.resources
+C:\Users\Kyle\Desktop\VendingMachineCIS214\VendingMachineCIS214\obj\Debug\VendingMachineCIS214.InventoryForm.resources
+C:\Users\Kyle\Desktop\VendingMachineCIS214\VendingMachineCIS214\obj\Debug\VendingMachineCIS214.QuantityErrorForm.resources
+C:\Users\Kyle\Desktop\VendingMachineCIS214\VendingMachineCIS214\obj\Debug\VendingMachineCIS214.BalanceErrorForm.resources
+C:\Users\Kyle\Desktop\VendingMachineCIS214\VendingMachineCIS214\obj\Debug\VendingMachineCIS214.ChangeRefillForm.resources
+C:\Users\Kyle\Desktop\VendingMachineCIS214\VendingMachineCIS214\obj\Debug\VendingMachineCIS214.ChangeReportForm.resources
+C:\Users\Kyle\Desktop\VendingMachineCIS214\VendingMachineCIS214\obj\Debug\VendingMachineCIS214.PurchaseReportForm.resources
+C:\Users\Kyle\Desktop\VendingMachineCIS214\VendingMachineCIS214\obj\Debug\VendingMachineCIS214.ChangeErrorForm.resources
